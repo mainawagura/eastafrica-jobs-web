@@ -202,7 +202,7 @@ export default async function handler(req, res) {
           <p><strong>Required Actions:</strong></p>
           <ul>
             <li>Review the attached PDF terms.</li>
-            <li>Contact your assigned agent at <strong>+254737872584</strong> to confirm receipt and next steps.</li>
+            <li>Contact your assigned agent at <strong>+254136193125</strong> to confirm receipt and next steps.</li>
           </ul>
           <p>Congratulations on your placement within the EAC Global Employment Network!</p>
           <p style="margin-top: 25px;">Best regards,<br><strong>East African Community Team</strong></p>

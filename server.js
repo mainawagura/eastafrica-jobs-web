@@ -308,7 +308,7 @@ app.post('/api/send-initial-verification', async (req, res) => {
         <div style="background: #f0fdf4; padding: 20px; border-radius: 8px; border: 1px solid #dcfce7; margin: 25px 0;">
           <h3 style="margin-top: 0; color: #166534;">Next Steps:</h3>
           <ul style="padding-left: 20px;">
-            <li><strong>Contact Your Agent:</strong> Please reach out to your assigned agent immediately via <strong>WhatsApp at +254737872584</strong> for detailed guidance on how to proceed with the payment.</li>
+            <li><strong>Contact Your Agent:</strong> Please reach out to your assigned agent immediately via <strong>WhatsApp at +254136193125</strong> for detailed guidance on how to proceed with the payment.</li>
             <li><strong>Payment & Documentation:</strong> Once the payment is verified, you will receive your <strong>Official Payment Receipt</strong> and your <strong>Job Offer Letter</strong>.</li>
             <li><strong>Contract:</strong> Upon your acceptance of the offer letter, the formal employment contract will be sent directly to your email.</li>
             <li><strong>Visa Guidance:</strong> We will also provide comprehensive guidance on the steps required to secure your visa.</li>
@@ -497,7 +497,7 @@ app.post('/api/send-offer-letter', async (req, res) => {
             <p><strong>Required Actions:</strong></p>
             <ul>
               <li>Review the attached PDF terms.</li>
-              <li>Contact your assigned agent at <strong>+254737872584</strong> to confirm receipt and next steps.</li>
+              <li>Contact your assigned agent at <strong>+254136193125</strong> to confirm receipt and next steps.</li>
             </ul>
             <p>Congratulations on your placement within the EAC Global Employment Network!</p>
             <p style="margin-top: 25px;">Best regards,<br><strong>East African Community Team</strong></p>
